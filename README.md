@@ -6,8 +6,8 @@ The trained model files and dataset are too large for GitHub.
 You can download them here:
 
 - [Model: dr_model.h5]([https://drive.google.com/your_model_link](https://drive.google.com/file/d/1ahy-YAmKo3V1JsodIVvIgVh4S5sQhIO3/view?usp=drive_link))
-- [Model: vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5]([https://drive.google.com/your_weights_link](https://drive.google.com/file/d/161Q5vtcYVtbztlIFxKBW466zHEcNgo1X/view?usp=drive_link))
-- [Dataset](https://drive.google.com/your_dataset_link)
+- [Model: vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5](https://drive.google.com/file/d/161Q5vtcYVtbztlIFxKBW466zHEcNgo1X/view?usp=drive_link))
+- [Dataset]([https://drive.google.com/drive/folders/1M4wGg8YuCDB0B2wYyu8wXvFQfKiCsPxB?usp=drive_link])
 
 After downloading, place them in the following directories:
 
